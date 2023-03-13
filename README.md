@@ -5,7 +5,7 @@
 **We need proofreaders and translators for this localisation project, please [join us](https://discord.gg/wtjuznh/) if you are interested.**
 
 ### What is Fate?
-A multipurpose discord bot for terminally online people TODO: make a good uhh thingy idk what purpose has life?
+Fate is a ~~multipurpose~~ hybrid bot created for fun, featuring moderation, giveaways, ranking, factions, minigames and more.
 
 ### Translations in progress
 - Spanish (Español)
